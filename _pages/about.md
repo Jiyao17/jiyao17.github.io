@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiyao Liu"
+title: "about"
 author_profile: true
 redirect_from: 
   - /about/
