@@ -28,8 +28,8 @@ Group Formation and Sampling in Group-based Hierarchical Federated Learning
 IEEE Transactions on Cloud Computing (**TCC**), under review. 2024.  
 
 Optimal Entanglement Distribution Problem in Satellite-based Quantum Networks  
-<div class="wordwrap">Xinliang Wei<sup>*</sup>, <b>Jiyao Liu</b><sup>*</sup>, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.</div>
-<div class="wordwrap">IEEE Network, in revision. 2024. (<sup>*</sup>co-first authors)</div>  
+Xinliang Wei*, **Jiyao Liu***, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.
+IEEE Network, in revision. 2024. (*co-first authors)  
   
 
 # 2023
@@ -37,11 +37,12 @@ Optimal Entanglement Distribution Problem in Satellite-based Quantum Networks
 Group-based Hierarchical Federated Learning: Convergence, Group Formation, and Sampling  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
 52nd International Conference on Parallel Processing (**ICPP**). 2023.  
-[Paper](/files/papers/2023/gfl-icpp-23.pdf){:target="_blank"}
+[Paper](/files/papers/2023/gfl-icpp-23.pdf){:target="_blank"}  
 
 Joint Participant Selection and Learning Optimization for Federated Learning of Multiple Models in Edge Cloud  
 Xinliang Wei, **Jiyao Liu**, and Yu Wang.  
 Journal of Computer Science and Technology (JCST). 2023.  
+
 
 # 2022
 
