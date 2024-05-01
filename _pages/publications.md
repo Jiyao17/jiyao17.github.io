@@ -29,7 +29,7 @@ IEEE Transactions on Cloud Computing (**TCC**), under review. 2024.
 
 Optimal Entanglement Distribution Problem in Satellite-based Quantum Networks  
 <div class="wordwrap">Xinliang Wei<sup>*</sup>, <b>Jiyao Liu</b><sup>*</sup>, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.</div>
-<div class="wordwrap">IEEE Network, in revision. 2024. (<sup>*</sup>co-first authors)</div>
+<div class="wordwrap">IEEE Network, in revision. 2024. (<sup>*</sup>co-first authors)</div>  
 
 # 2023
 
