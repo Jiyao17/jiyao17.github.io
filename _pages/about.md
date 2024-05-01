@@ -11,7 +11,7 @@ I'm currently (Apr. 2024) a 3rd-year Ph.D. candidate at the Computer and Informa
 
 I'm interested in research on networks and networked systems, such as distributed machine learning, quantum networks, and network optimization.  
 
-I have worked at Toyota Motor North America as a machine learning research intern during Aug. - Dec. 2023, supervised by Dr. Yongkang Liu.  We pre-processed the raw data and designed a battery prediction model for electric vehicles with <10% MAPE, which is **better than Tesla**'s.
+I have worked at Toyota Motor North America as a machine learning research intern during Aug. - Dec. 2023, supervised by Dr. Yongkang Liu.  We pre-processed the raw data and designed a battery prediction model for electric vehicles with ~10% MAPE, which is **better than Tesla**'s.
 
 Prior to my Ph.D., I obtained my B.Eng. degree in Information Security from North China University of Technology in Jun. 2020.  
 
