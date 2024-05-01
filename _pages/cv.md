@@ -19,7 +19,7 @@ Education
 * B.S.  in Information Security, North China University of Science and Technology, 2020
 
 
-Work experience
+Work Experience
 ======
 * Aug. - Dec. 2023: Research Intern
   * InfoTech Labs, Toyota Motor North America, CA, US
