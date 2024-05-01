@@ -9,56 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
+
+[CV pdf](/files/CV.pdf){:target="_blank"}
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer and Information Sciences, Temple University, 2025 (expected)
+* M.S.  in Computer and Information Sciences, Temple University, 2024
+* B.S.  in Information Security, North China University of Science and Technology, 2020
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug. - Dec. 2023: Research Intern
+  * InfoTech Labs, Toyota Motor North America, CA, US
+  * Duties: design machine learning models for electric vehicle applications
+  * Supervisor: Dr. Yongkang Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021 - 2025: Teaching/Research Assistant
+  * Temple University
+  * Supervisor: [Dr. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ -->
+
+<!-- 
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> 
+ -->
+
+Awards
+======
+* CIS Outstanding Graduate Research Assistant Award, 2024
+* ICPP Student Travel Award, 2023
+
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+ -->
+
+Services
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Reviewer for 
+  * IEEE Transactions on Mobile Computing
+  * IEEE Transactions on Cloud Computing
+  * IEEE Internet of Things Journal
+  * IEEE MASS
+  * Journal of Computer Science and Technology
+  * Intelligent and Converged Networks
