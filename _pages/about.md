@@ -14,4 +14,8 @@ Prior to my Ph.D., I obtained my B.Eng. degree in Information Security from Nort
 
 # News  
 **Apr. 2024.** Glad to receive the CIS Outstanding Research Assistant Award!  
-**Apr. 2024.** New version of my personal website launched~  
+**Dec. 2023.** Finished my internship with **Exceeded** rating!
+**Aug. 2023.** Received travel award to Salt Lake City to attend ICPP 2023!
+**Jul. 2023.** Received an internship offer from Toyota InfoTech Labs!
+**Jun. 2023.** Our paper on group-based federated learning was accepted to ICPP 2023!
+
