@@ -16,7 +16,7 @@ redirect_from:
 
 I used to be the teaching assitant for
 
-# 2023
+# 2024
 CIS 1057.003, Computer Programming in C, Spring 2024  
 CIS 3319.001/4379.001, Wireless Networks & Security, Spring 2024  
 
