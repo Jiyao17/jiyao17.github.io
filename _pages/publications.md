@@ -22,12 +22,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 # Pre-Prints
-
 Group Formation and Sampling in Group-based Hierarchical Federated Learning  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
 IEEE Transactions on Cloud Computing (**TCC**), under review. 2024.  
-
-
 
 
 # 2024  
@@ -38,7 +35,7 @@ The 33rd International Conference on Computer Communications and Networks (ICCCN
 
 Optimal Entanglement Distribution Problem in Satellite-based Quantum Networks   
 Xinliang Wei\*, **Jiyao Liu**\*, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.  
-IEEE Network. 2024. (*co-first authors)   
+IEEE Network. 2024. (*co-first authors)  
 
 # 2023
 
