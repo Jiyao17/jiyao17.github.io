@@ -30,7 +30,7 @@ IEEE Transactions on Cloud Computing (**TCC**), under review. 2024.
 # 2024  
 
 Hybrid Quantum-Classical Computing via Dantzig-Wolfe Decomposition for Integer Linear Programming  
-Xinliang Wei, **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Zhu Han, Yu Wang  
+Xinliang Wei, **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Zhu Han, Yu Wang.  
 The 33rd International Conference on Computer Communications and Networks (ICCCN). 2024.  
 
 Optimal Entanglement Distribution Problem in Satellite-based Quantum Networks   
