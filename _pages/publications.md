@@ -27,10 +27,18 @@ Group Formation and Sampling in Group-based Hierarchical Federated Learning
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
 IEEE Transactions on Cloud Computing (**TCC**), under review. 2024.  
 
-Optimal Entanglement Distribution Problem in Satellite-based Quantum Networks  
-Xinliang Wei\*, **Jiyao Liu**\*, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.
-IEEE Network, in revision. 2024. (*co-first authors)  
-  
+
+
+
+# 2024  
+
+Hybrid Quantum-Classical Computing via Dantzig-Wolfe Decomposition for Integer Linear Programming  
+Xinliang Wei, **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Zhu Han, Yu Wang  
+The 33rd International Conference on Computer Communications and Networks (ICCCN). 2024.  
+
+Optimal Entanglement Distribution Problem in Satellite-based Quantum Networks   
+Xinliang Wei\*, **Jiyao Liu**\*, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.  
+IEEE Network. 2024. (*co-first authors)   
 
 # 2023
 
