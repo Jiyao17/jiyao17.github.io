@@ -18,7 +18,7 @@ Prior to my Ph.D., I obtained my B.Eng. degree in Information Security from Nort
 
 # News  
 
-**05-2024**  Our paper on hybrid quantum-classic optimization for ILP problems was accepted to ICCCN 2024!  
+**05-2024**  Our paper on hybrid quantum-classic optimization was accepted to ICCCN 2024!  
 **05-2024**  Our paper on satellite-based entanglement distribution was accepted to IEEE Network!  
 **04-2024**  Glad to receive the CIS Outstanding Research Assistant Award!  
 **12-2023**  Finished my internship with **Exceeded** rating!  
