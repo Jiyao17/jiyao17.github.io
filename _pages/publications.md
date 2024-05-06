@@ -21,7 +21,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 
-# Pre-Prints
+# Pre-Prints  
 
 Group Formation and Sampling in Group-based Hierarchical Federated Learning  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
