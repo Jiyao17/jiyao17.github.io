@@ -14,7 +14,7 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %} -->
 
-I used to be the teaching assitant for
+I used to be the teaching assistant for
 
 # 2024
 CIS 1057.003, Computer Programming in C, Spring 2024  

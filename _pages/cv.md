@@ -65,6 +65,7 @@ Reviewer for
   * IEEE Transactions on Mobile Computing
   * IEEE Transactions on Cloud Computing
   * IEEE Internet of Things Journal
-  * IEEE MASS
+  * and more.
+  <!-- * IEEE MASS
   * Journal of Computer Science and Technology
-  * Intelligent and Converged Networks
+  * Intelligent and Converged Networks -->
