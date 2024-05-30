@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently (Apr. 2024) a 3rd-year Ph.D. candidate at the Computer and Information Sciences Department at Temple University, advised by [Dr. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}.  
+I am currently (Apr. 2024) a 3rd-year Ph.D. candidate at the Computer and Information Sciences Department at Temple University, advised by [Dr. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}.  
 
-I'm interested in research on networks and networked systems, such as distributed machine learning, quantum networks, and network optimization.  
+I am interested in research on the intersections of networking and other cutting-edge technologies, especially network + AI/quantum. For example, on networks+AI, I have recently worked on federeted/distributed machine learning, network foundation models based on LLMs, and spatio-temporal analysis for network traffics; on networks+quantum, I have recently worked on entanglement distribution optimization, quantum networks planning, and satellite-based quantum networks. 
 
 I have worked at Toyota Motor North America as a machine learning research intern during Aug. - Dec. 2023, supervised by Dr. Yongkang Liu.  We pre-processed the raw data and designed a battery prediction model for electric vehicles with ~10% MAPE, which is **better than Tesla**'s.
 
