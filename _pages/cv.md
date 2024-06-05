@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer and Information Sciences, Temple University, 2025 (expected)
-* M.S.CS in Computer and Information Sciences, Temple University, 2024
+* M.S. in Computer Science, Temple University, 2024
 * B.Eng. in Information Security, North China University of Science and Technology, 2020
 
 
