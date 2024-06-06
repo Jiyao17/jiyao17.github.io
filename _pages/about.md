@@ -9,7 +9,7 @@ redirect_from:
 
 Jiyao Liu is currently (June 2024) a 4th-year Ph.D. candidate at the Computer and Information Sciences Department at Temple University, advised by [Dr. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}.  
 
-He is interested in research on the intersections of networking and other cutting-edge technologies, especially networking + AI/quantum. On networking + AI, he recently worked on federeted/distributed machine learning, and Network Foundation Models (LLMs for networking); on networking + quantum, he recently worked on quantum networks, and quantum-classic optmization for networking.  
+He is interested in research on networking + AI/quantum. On networking + AI, he recently worked on federeted/distributed machine learning, and Network Foundation Models (LLMs for networking); on networking + quantum, he recently worked on quantum networks, and quantum-classic optmization for networking.  
 
 He has worked at Toyota Motor North America as a machine learning research intern during Aug. - Dec. 2023, supervised by Dr. Yongkang Liu. There, he designed a machine learning model for electric vehicles battery prediction with ~10% MAPE, which is **better than Tesla**'s.  
 
