@@ -25,7 +25,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Group Formation and Sampling in Group-based Hierarchical Federated Learning  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
-IEEE Transactions on Cloud Computing (**TCC**), under review. 2024.  
+IEEE Transactions on Cloud Computing (**TCC**), in minor revision. 2024.  
 
 
 # 2024  
