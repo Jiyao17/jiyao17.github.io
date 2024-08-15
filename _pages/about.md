@@ -17,7 +17,7 @@ Prior to his Ph.D. study, he obtained his B.Eng. in Information Security from No
 
 
 # News  
-**08-2024**  Our paper on federated learning and blockchain was accepted to VTC2024-Fall!
+**08-2024**  Our paper on federated learning and blockchain was accepted to VTC2024-Fall!  
 **05-2024**  Our paper on hybrid quantum-classic optimization was accepted to ICCCN 2024!  
 **05-2024**  Our paper on satellite-based entanglement distribution was accepted to IEEE Network!  
 **04-2024**  Glad to receive the CIS Outstanding Research Assistant Award!  
