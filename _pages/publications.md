@@ -23,9 +23,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 # Pre-Prints  
 
-Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning over Edge Clouds
-Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang. 
-IEEE Transactions on Network and Service Management (TNSM), under review.
+Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning over Edge Clouds  
+Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang.  
+IEEE Transactions on Network and Service Management (TNSM), under review.  
 
 
 Group Formation and Sampling in Group-based Hierarchical Federated Learning  
