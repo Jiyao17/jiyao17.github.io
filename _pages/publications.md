@@ -23,9 +23,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 # Pre-Prints  
 
+Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning over Edge Clouds
+Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang. 
+IEEE Transactions on Network and Service Management (TNSM), under review.
+
+
 Group Formation and Sampling in Group-based Hierarchical Federated Learning  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
-IEEE Transactions on Cloud Computing (**TCC**), in minor revision. 2024.  
+IEEE Transactions on Cloud Computing (TCC), in minor revision.  
+
 
 # 2024  
 
@@ -46,7 +52,7 @@ IEEE Network. 2024. (\*co-first authors)
 
 Group-based Hierarchical Federated Learning: Convergence, Group Formation, and Sampling  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
-52nd International Conference on Parallel Processing (**ICPP**). 2023.  
+52nd International Conference on Parallel Processing (ICPP). 2023.  
 [Paper](/files/papers/2023/gfl-icpp-23.pdf){:target="_blank"}  
 
 Joint Participant Selection and Learning Optimization for Federated Learning of Multiple Models in Edge Cloud  

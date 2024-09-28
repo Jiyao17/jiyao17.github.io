@@ -28,7 +28,7 @@ Work Experience
 
 * 2021 - 2025: Teaching/Research Assistant
   * Temple University
-  * Topocs: distributed machine learning, ML for networking, quantum networking, etc.
+  * Topocs: quantum networking, networks + AI.
   * Supervisor: [Dr. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}
 
 <!-- 
@@ -62,6 +62,10 @@ Talks
 
 Services
 ======
+Conference organizer
+  * Web Co-chair, IEEE MASS 2025
+
+
 Reviewer for 
   * IEEE Transactions on Mobile Computing
   * IEEE Transactions on Cloud Computing
