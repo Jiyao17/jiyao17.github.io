@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[CV pdf](/files/CV.pdf){:target="_blank"}
+<!-- [CV pdf](/files/CV.pdf){:target="_blank"} -->
 
 Education
 ======

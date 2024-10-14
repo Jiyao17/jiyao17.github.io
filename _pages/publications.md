@@ -28,12 +28,11 @@ Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang.
 IEEE Transactions on Network and Service Management (TNSM), under review.  
 
 
+# 2024  
+
 Group Formation and Sampling in Group-based Hierarchical Federated Learning  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
-IEEE Transactions on Cloud Computing (TCC), in minor revision.  
-
-
-# 2024  
+IEEE Transactions on Cloud Computing (TCC), to appear.  
 
 Incentive Mechanism Design in Semi-Asynchronous Blockchain-based Federated Learning  
 Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang.  
