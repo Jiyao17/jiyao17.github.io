@@ -33,10 +33,12 @@ IEEE Transactions on Network and Service Management (TNSM), under review.
 Topology Design with Resource Allocation and Entanglement Distribution for Quantum Networks  
 **Jiyao Liu**, Xuanzhang Liu, Xinliang Wei, Yu Wang.  
 21st Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), 2024  
+[Paper](/files/papers/2024/QuTopo.pdf){:target="_blank"}  
 
 Group Formation and Sampling in Group-based Hierarchical Federated Learning  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
 IEEE Transactions on Cloud Computing (TCC), to appear.  
+[Paper](/files/papers/2024/FL_Grouping-TCC.pdf){:target="_blank"}  
 
 Incentive Mechanism Design in Semi-Asynchronous Blockchain-based Federated Learning  
 Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang.  
@@ -49,6 +51,7 @@ The 33rd International Conference on Computer Communications and Networks (ICCCN
 Optimal Entanglement Distribution Problem in Satellite-based Quantum Networks   
 Xinliang Wei\*, **Jiyao Liu**\*, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.  
 IEEE Network. 2024. (\*co-first authors)  
+[Paper](/files/papers/2024/Satellite_based_Entanglement.pdf){:target="_blank"}  
 
 
 # 2023
