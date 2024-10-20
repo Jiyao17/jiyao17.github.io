@@ -30,6 +30,10 @@ IEEE Transactions on Network and Service Management (TNSM), under review.
 
 # 2024  
 
+Topology Design with Resource Allocation and Entanglement Distribution for Quantum Networks  
+**Jiyao Liu**, Xuanzhang Liu, Xinliang Wei, Yu Wang.  
+21st Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), 2024  
+
 Group Formation and Sampling in Group-based Hierarchical Federated Learning  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
 IEEE Transactions on Cloud Computing (TCC), to appear.  

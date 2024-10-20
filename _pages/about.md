@@ -15,7 +15,8 @@ Prior to his Ph.D. study, he obtained his B.Eng. in Information Security from No
 
 
 # News  
-**10-2024**  Our paper on group-based federated learning was accepted by Trans. on Cloud Computing!  
+**10-2024**  Our paper on topology design for quantum networks was accepted by SECON 2024!    
+**10-2024**  Our paper on group-based federated learning was accepted by Transactions on Cloud Computing!  
 **08-2024**  Our paper on federated learning and blockchain was accepted by VTC2024-Fall!  
 **05-2024**  Our paper on hybrid quantum-classic optimization was accepted by ICCCN 2024!  
 **05-2024**  Our paper on satellite-based entanglement distribution was accepted by IEEE Network!  
