@@ -21,11 +21,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 
-# Pre-Prints  
+<!-- # Pre-Prints  
 
 Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning over Edge Clouds  
 Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang.  
-IEEE Transactions on Network and Service Management (TNSM), under review.  
+IEEE Transactions on Network and Service Management (TNSM), under review.   -->
 
 
 # 2024  
@@ -81,5 +81,5 @@ Xinliang Wei, **Jiyao Liu**, and Yu Wang.
 
 An anonymous blockchain-based logging system for cloud computing  
 **Jiyao Liu**, Yun-Hua He, Chao Wang, Yan Hu, Hong Li, and Li-Min Sun.  
-International Conference on Blockchain and Trustworthy Systems. Springer. 2019, pp. 288–301  
+International Conference on Blockchain and Trustworthy Systems. Springer. 2019, pp. 288-301  
 
