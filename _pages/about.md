@@ -15,7 +15,7 @@ Prior to his Ph.D. study, he obtained his B.Eng. in Information Security from No
 
 
 # News  
-**12-2024**  I'm thrilled to receive the 2024 Outstanding Graduate Research Assistant Award from our College of Science and Technology (one from each department)!   
+**12-2024**  I'm thrilled to receive the 2024 Outstanding Graduate Research Assistant Award from our College of Science and Technology!   
 **10-2024**  Our paper on topology design for quantum networks was accepted by SECON 2024!    
 **10-2024**  Our paper on group-based federated learning was accepted by Transactions on Cloud Computing!  
 **08-2024**  Our paper on federated learning and blockchain was accepted by VTC2024-Fall!  
