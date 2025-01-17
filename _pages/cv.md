@@ -28,7 +28,7 @@ Work Experience
 
 * 2021 - 2025: Teaching/Research Assistant
   * Temple University
-  * Topocs: quantum networking, networks + AI.
+  * Topocs: edge intelligence, quantum networking, quantum computing, AI for networking, etc.
   * Supervisor: [Dr. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}
 
 <!-- 
