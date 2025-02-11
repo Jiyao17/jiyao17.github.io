@@ -27,6 +27,12 @@ Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning o
 Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang.  
 IEEE Transactions on Network and Service Management (TNSM), under review.   -->
 
+# 2025
+
+Co-Design of Network Topology and Qubit Allocation for Distributed Quantum Computing  
+**Jiyao Liu**, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.  
+International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)  
+
 
 # 2024  
 
