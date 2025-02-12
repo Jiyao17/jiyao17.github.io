@@ -28,7 +28,7 @@ Work Experience
 
 * 2021 - 2025: Teaching/Research Assistant
   * Temple University
-  * Topocs: edge intelligence, quantum networking, quantum computing, AI for networking, etc.
+  * Topics: edge intelligence, quantum networking, quantum computing, AI for networking, etc.
   * Supervisor: [Dr. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}
 
 <!-- 
@@ -49,6 +49,7 @@ Teaching
 
 Awards
 ======
+* CST Outstanding Graduate Research Assistant Award, 2024
 * CIS Outstanding Graduate Research Assistant Award, 2024
 * ICPP Student Travel Award, 2023
 

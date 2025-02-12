@@ -14,7 +14,7 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %} -->
 
-I used to be the teaching assistant for
+I used to be the teaching assistant for the following courses at Temple University,
 
 # 2024
 CIS 1057.001, Computer Programming in C, Fall 2024  
