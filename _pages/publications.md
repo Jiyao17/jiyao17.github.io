@@ -32,7 +32,7 @@ IEEE Transactions on Network and Service Management (TNSM), under review.   -->
 Co-Design of Network Topology and Qubit Allocation for Distributed Quantum Computing  
 **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.  
 International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)  
-
+[Paper](/files/papers/2025/Topology_Allocation_Co_Optimization.pdf){:target="_blank"} 
 
 # 2024  
 
