@@ -47,7 +47,7 @@ Topology Design with Resource Allocation and Entanglement Distribution for Quant
 
 Group Formation and Sampling in Group-based Hierarchical Federated Learning  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
-IEEE Transactions on Cloud Computing (TCC), to appear.  
+IEEE Transactions on Cloud Computing (TCC).  
 [Paper](/files/papers/2024/FL_Grouping-TCC.pdf){:target="_blank"}  
 
 Incentive Mechanism Design in Semi-Asynchronous Blockchain-based Federated Learning  
@@ -94,5 +94,3 @@ An anonymous blockchain-based logging system for cloud computing
 International Conference on Blockchain and Trustworthy Systems. Springer. 2019, pp. 288-301  
 
 
-
-[fsd]: /files/papers/2025/
