@@ -28,6 +28,10 @@ Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang.
 IEEE Transactions on Network and Service Management (TNSM), under review.   -->
 
 # 2025
+Joint Swapping and Purification with Failures for Entanglement Distribution in Quantum Networks
+**Jiyao Liu**, Xinwen Zhang, Xinliang Wei, Xuanzhang Liu, Yuzhou Chen, Hongchang Gao, Yu Wang
+IEEE/ACM International Symposium on Quality of Service (IWQoS 2025)
+[Paper](/files/papers/2025/iwqos2025-paper55.pdf){:target="_blank"} 
 
 Co-Design of Network Topology and Qubit Allocation for Distributed Quantum Computing  
 **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.  
@@ -89,3 +93,6 @@ An anonymous blockchain-based logging system for cloud computing
 **Jiyao Liu**, Yun-Hua He, Chao Wang, Yan Hu, Hong Li, and Li-Min Sun.  
 International Conference on Blockchain and Trustworthy Systems. Springer. 2019, pp. 288-301  
 
+
+
+[fsd]: /files/papers/2025/
