@@ -23,7 +23,7 @@ Work Experience
 ======
 * Aug. - Dec. 2023: Machine Learning Research Intern
   * InfoTech Labs, Toyota Motor North America, CA, US
-  * Duties: designed a machine learning model for electric vehicles battery prediction, achieved ~10% MAPE, which is **better than Tesla**'s.
+  * Duties: designed a machine learning model for electric vehicles battery prediction, achieved ~10% MAPE, which is **better than Tesla's deployed service**.
   * Supervisor: Dr. Yongkang Liu
 
 * 2021 - 2025: Teaching/Research Assistant
