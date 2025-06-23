@@ -67,9 +67,10 @@ Conference organizer
   * Web Co-chair, IEEE MASS 2025
 
 
-Reviewer for 
+Reviewer of 
   * IEEE Transactions on Mobile Computing
   * IEEE Transactions on Cloud Computing
+  * Elsevier Computer Networks
   * IEEE Internet of Things Journal
   * IEEE MASS
   * Journal of Computer Science and Technology
