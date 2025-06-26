@@ -49,8 +49,8 @@ Teaching
 
 Awards
 ======
-* CST Outstanding Graduate Research Assistant Award, 2024
-* CIS Outstanding Graduate Research Assistant Award, 2024
+* Outstanding Graduate Research Assistant Award (College of Science and Technology), 2024
+* Outstanding Graduate Research Assistant Award (CIS Department), 2024
 * ICPP Student Travel Award, 2023
 
 <!-- 
