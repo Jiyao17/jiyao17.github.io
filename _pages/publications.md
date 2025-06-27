@@ -18,7 +18,7 @@ author_profile: true
 
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=fKvC6OMAAAAJ){:target="_blank"}.  
-All copyrights maybe reserved by publishers.
+All copyrights may be reserved by publishers.
 
 
 <!-- # Pre-Prints  
