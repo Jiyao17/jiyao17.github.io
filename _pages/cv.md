@@ -50,7 +50,7 @@ Teaching
 Awards
 ======
 * Outstanding Graduate Research Assistant Award (College of Science and Technology), 2024
-* Outstanding Graduate Research Assistant Award (CIS Department), 2024
+* Outstanding Graduate Research Assistant Award (Department of Computer and Information Sciences), 2024
 * ICPP Student Travel Award, 2023
 
 <!-- 
