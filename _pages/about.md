@@ -14,8 +14,8 @@ His research mainly focuses on future networking systems, especially quantum net
 Prior to his Ph.D. study, he obtained his B.Eng. in Information Security from North China University of Technology in Jun. 2020. While pursuing his Ph.D., he also earned M.S. in Computer Science from Temple University in 2024.
 
 # News  
-**07-2025**  Our paper on connection latency analysis and optimization is accepted by QCE 2025!  
-**07-2025**  Our paper on federated learning and blockchain is accepted for publication by ITU J-FET!  
+**07-2025**  Our paper on connection latency analysis and optimization for quantum networks is accepted by QCE 2025!  
+**07-2025**  Our paper on federated learning and blockchain is accepted by ITU J-FET!  
 **04-2025**  Our paper on joint swapping and purification optimization in quantum networks is accepted by IWQoS 2025!  
 **02-2025**  Our paper on network topology and qubit allocation co-optimization for distributed quantum computing is accepted by QCNC 2025!  
 **12-2024**  I'm thrilled to receive the 2024 Outstanding Graduate Research Assistant Award from our College of Science and Technology!  
