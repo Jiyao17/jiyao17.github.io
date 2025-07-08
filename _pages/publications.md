@@ -27,13 +27,12 @@ Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning o
 Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang.  
 IEEE Transactions on Network and Service Management (TNSM), under review.   -->
 
-# 2025
+# 2025  
 
 Statistical Modeling and Latency Optimization for Entanglement Routing in Quantum Networks  
 Jiyao Liu, Yu Wang  
 IEEE International Conference on Quantum Computing and Engineering (QCE25)  
-[Paper](/files/papers/2025/Latency_in_QNs.pdf){:target="_blank"} 
-
+[Paper](/files/papers/2025/Latency_in_QNs.pdf){:target="_blank"}  
 
 Incentive mechanism design for semi-asynchronous blockchain-based federated edge learning  
 Xuanzhang Liu, Jiyao Liu, Xinliang Wei, Yu Wang  
@@ -42,7 +41,7 @@ ITU Journal on Future and Evolving Technologies (ITU J-FET), 2025.
 Joint Swapping and Purification with Failures for Entanglement Distribution in Quantum Networks  
 **Jiyao Liu**, Xinwen Zhang, Xinliang Wei, Xuanzhang Liu, Yuzhou Chen, Hongchang Gao, Yu Wang  
 IEEE/ACM International Symposium on Quality of Service (IWQoS 2025)  
-[Paper](/files/papers/2025/iwqos2025-paper55.pdf){:target="_blank"} 
+[Paper](/files/papers/2025/iwqos2025-paper55.pdf){:target="_blank"}  
 
 Co-Design of Network Topology and Qubit Allocation for Distributed Quantum Computing  
 **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.  
