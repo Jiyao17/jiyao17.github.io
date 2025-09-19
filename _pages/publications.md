@@ -53,7 +53,7 @@ International Conference on Quantum Communications, Networking, and Computing (Q
 Topology Design with Resource Allocation and Entanglement Distribution for Quantum Networks  
 **Jiyao Liu**, Xuanzhang Liu, Xinliang Wei, Yu Wang.  
 21st Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), 2024  
-[Paper](/files/papers/2024/QuTopo.pdf){:target="_blank"}  
+[Paper](/files/papers/2024/QuTopo.pdf){:target="_blank"} [Code](https://github.com/Jiyao17/qutopo){:target="_blank"}  
 
 Group Formation and Sampling in Group-based Hierarchical Federated Learning  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
