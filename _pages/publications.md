@@ -58,7 +58,7 @@ Topology Design with Resource Allocation and Entanglement Distribution for Quant
 Group Formation and Sampling in Group-based Hierarchical Federated Learning  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
 IEEE Transactions on Cloud Computing (TCC).  
-[Paper](/files/papers/2024/FL_Grouping-TCC.pdf){:target="_blank"}  
+[Paper](/files/papers/2024/FL_Grouping-TCC.pdf){:target="_blank"} [Code](https://github.com/Jiyao17/fl-grouping){:target="_blank"}  
 
 Incentive Mechanism Design in Semi-Asynchronous Blockchain-based Federated Learning  
 Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang.  
@@ -79,7 +79,7 @@ IEEE Network. 2024. (\*co-first authors)
 Group-based Hierarchical Federated Learning: Convergence, Group Formation, and Sampling  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
 52nd International Conference on Parallel Processing (ICPP). 2023.  
-[Paper](/files/papers/2023/gfl-icpp-23.pdf){:target="_blank"}  
+[Paper](/files/papers/2023/gfl-icpp-23.pdf){:target="_blank"} [Code](https://github.com/Jiyao17/fl-grouping){:target="_blank"}  
 
 Joint Participant Selection and Learning Optimization for Federated Learning of Multiple Models in Edge Cloud  
 Xinliang Wei, **Jiyao Liu**, and Yu Wang.  
