@@ -29,6 +29,10 @@ IEEE Transactions on Network and Service Management (TNSM), under review.   -->
 
 # 2025  
 
+Quantum-Assisted Resource Management for Data Access in Space-Air-Ground Integrated Networks  
+Xinliang Wei, **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Yanmin Gong, Zhu Han, Yu Wang  
+IEEE Transactions on Wireless Communications  
+
 Statistical Modeling and Latency Optimization for Entanglement Routing in Quantum Networks  
 **Jiyao Liu**, Yu Wang  
 IEEE International Conference on Quantum Computing and Engineering (QCE25)  
