@@ -29,6 +29,10 @@ IEEE Transactions on Network and Service Management (TNSM), under review.   -->
 
 # 2025  
 
+Incentive Mechanism for Blockchain-Enabled Coded Federated Learning in Edge Clouds  
+Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang  
+The 31st IEEE International Conference on Parallel and Distributed Systems (ICPADS 2025)  
+
 Quantum-Assisted Resource Management for Data Access in Space-Air-Ground Integrated Networks  
 Xinliang Wei, **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Yanmin Gong, Zhu Han, Yu Wang  
 IEEE Transactions on Wireless Communications  
