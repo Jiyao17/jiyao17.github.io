@@ -15,6 +15,7 @@ Prior to his Ph.D. study, he obtained his B.Eng. in Information Security from No
 
 # News  
 **02-2026**  Our paper on joint swapping and purification optimization for entanglement distribution in quantum networks is accepted by IEEE Transactions on Networking!  
+**01-2026**  Our paper on incentive mechanism design in blockchain-based federated learning is accepted by Elsevier Computer Networks!  
 **11-2025**  I am very honored to receive Doctoral Dissertation Completion Grant!  
 **10-2025**  Our paper on federated learning and blockchain is accepted by ICPADS 2025!  
 **09-2025**  Our paper on quantum computing for space-air-ground networks is accepted by IEEE Transactions on Wireless Communications!  

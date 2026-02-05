@@ -32,8 +32,13 @@ IEEE Transactions on Network and Service Management (TNSM), under review.   -->
 
 Swapping and Purification Scheme Optimization for Entanglement Distribution in Quantum Networks  
 **Jiyao Liu**, Xinwen Zhang, Xinliang Wei, Xuanzhang Liu, Yuzhou Chen, Hongchang Gao, Yu Wang  
-IEEE Transactions on Networking  
+IEEE Transactions on Networking, 2026.  
 [Code](https://github.com/Jiyao17/sptree){:target="_blank"}  
+
+
+Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning over Edge Clouds
+Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang
+Elsevier Computer Networks, 2026
 
 
 # 2025  
@@ -44,7 +49,7 @@ The 31st IEEE International Conference on Parallel and Distributed Systems (ICPA
 
 Quantum-Assisted Resource Management for Data Access in Space-Air-Ground Integrated Networks  
 Xinliang Wei, **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Yanmin Gong, Zhu Han, Yu Wang  
-IEEE Transactions on Wireless Communications  
+IEEE Transactions on Wireless Communications, 2025.
 
 Statistical Modeling and Latency Optimization for Entanglement Routing in Quantum Networks  
 **Jiyao Liu**, Yu Wang  
