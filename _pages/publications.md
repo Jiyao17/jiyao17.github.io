@@ -28,6 +28,14 @@ Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning o
 Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang.  
 IEEE Transactions on Network and Service Management (TNSM), under review.   -->
 
+# 2026
+
+Swapping and Purification Scheme Optimization for Entanglement Distribution in Quantum Networks  
+**Jiyao Liu**, Xinwen Zhang, Xinliang Wei, Xuanzhang Liu, Yuzhou Chen, Hongchang Gao, Yu Wang  
+IEEE Transactions on Networking  
+[Code](https://github.com/Jiyao17/sptree){:target="_blank"}  
+
+
 # 2025  
 
 Incentive Mechanism for Blockchain-Enabled Coded Federated Learning in Edge Clouds  
