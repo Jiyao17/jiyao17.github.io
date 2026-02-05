@@ -22,11 +22,6 @@ All copyrights may be reserved by publishers.
 
 
 
-<!-- # Pre-Prints  
-
-Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning over Edge Clouds  
-Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang.  
-IEEE Transactions on Network and Service Management (TNSM), under review.   -->
 
 # 2026
 
@@ -36,8 +31,8 @@ IEEE Transactions on Networking, 2026.
 [Code](https://github.com/Jiyao17/sptree){:target="_blank"}  
 
 
-Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning over Edge Clouds
-Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang
+Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning over Edge Clouds  
+Xuanzhang Liu, **Jiyao Liu**, Xinliang Wei, Yu Wang  
 Elsevier Computer Networks, 2026
 
 
