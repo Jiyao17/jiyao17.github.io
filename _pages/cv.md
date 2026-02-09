@@ -14,9 +14,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer and Information Sciences, Temple University, 2025 (expected)  
+* Ph.D. in Computer and Information Sciences, Temple University, 2026   
 * M.S. in Computer Science, Temple University, 2024  
-* B.Eng. in Information Security, North China University of Science and Technology, 2020  
+* B.Eng. in Information Security, North China University of Technology, 2020  
 
 
 Work Experience
@@ -49,7 +49,7 @@ Teaching
 
 Awards
 ======
-* Doctoral Dissertation Completion Grant, Temple University, 2025 ($13500)  
+* Doctoral Dissertation Completion Grant, Temple University, 2026 ($13500)  
 * Q-Core@QCE’25 NSF Student Travel Grant, 2025
 * Outstanding Graduate Research Assistant Award (College of Science and Technology), 2024
 * Outstanding Graduate Research Assistant Award (Department of Computer and Information Sciences), 2024
