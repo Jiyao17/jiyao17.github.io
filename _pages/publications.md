@@ -28,7 +28,7 @@ All copyrights may be reserved by publishers.
 Swapping and Purification Scheme Optimization for Entanglement Distribution in Quantum Networks  
 **Jiyao Liu**, Xinwen Zhang, Xinliang Wei, Xuanzhang Liu, Yuzhou Chen, Hongchang Gao, Yu Wang  
 IEEE Transactions on Networking, 2026.  
-[Paper](/files/papers/2026/OSPS_IWQoS_ToN_final.pdf){:target="_blank"} [Code](https://github.com/Jiyao17/sptree){:target="_blank"}  
+[Paper](/files/papers/2026/OSPS_IWQoS_ToN_final.pdf){:target="_blank"} [Supplementary](/files/papers/2026/OSPS_IWQoS_ToN_final-sup.pdf){:target="_blank"} [Code](https://github.com/Jiyao17/sptree){:target="_blank"}  
 
 
 Incentive Mechanism Design in Blockchain-based Hierarchical Federated Learning over Edge Clouds  
