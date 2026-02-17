@@ -14,6 +14,7 @@ His research mainly focuses on future networking systems, especially quantum net
 Prior to his Ph.D. study, he obtained his B.Eng. in Information Security from North China University of Technology in Jun. 2020. While pursuing his Ph.D., he also earned M.S. in Computer Science from Temple University in 2024.  
 
 # News  
+**02-2026**  Our paper on exact optimal swapping and purification scheme for entanglement distribution in quantum networks is accepted by IEEE QCNC 2026!  
 **02-2026**  Our paper on joint swapping and purification optimization for entanglement distribution in quantum networks is accepted by IEEE Transactions on Networking!  
 **01-2026**  Our paper on incentive mechanism design in blockchain-based federated learning is accepted by Elsevier Computer Networks!  
 **11-2025**  I am very honored to receive Doctoral Dissertation Completion Grant!  

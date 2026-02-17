@@ -23,7 +23,14 @@ All copyrights may be reserved by publishers.
 
 
 
-# 2026
+# 2026  
+
+
+Minimum Cost Swapping and Purification Scheduling over Quantum Repeater Chains  
+**Jiyao Liu**, Lei Fan, Yuanxiong Guo, Yanmin Gong, Zhu Han, Yu Wang  
+International Conference on Quantum Communications, Networking, and Computing (QCNC 2026)  
+[Paper](/files/papers/2026/Exact_OSPS-final.pdf){:target="_blank"} [Code](https://github.com/Jiyao17/osps){:target="_blank"}  
+
 
 Swapping and Purification Scheme Optimization for Entanglement Distribution in Quantum Networks  
 **Jiyao Liu**, Xinwen Zhang, Xinliang Wei, Xuanzhang Liu, Yuzhou Chen, Hongchang Gao, Yu Wang  
