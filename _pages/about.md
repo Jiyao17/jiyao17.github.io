@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Jiyao Liu is currently (Aug. 2025) a final-year Ph.D. candidate in the Department of Computer and Information Sciences at Temple University, advised by [Prof. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}.  
+Jiyao Liu is currently (Feb. 2026) a final-year Ph.D. candidate in the Department of Computer and Information Sciences at Temple University, advised by [Prof. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}.  
 
-His research mainly focuses on future networking systems, especially quantum networking, distributed quantum computing, network foundation models, and distributed machine learning. His work at Temple University earned him two Outstanding Research Assistant Awards from the department and college (both are one per departent). In Fall 2023, he interned at Toyota NA, delivered two projects within 3.5 months and received an Exceeded rating. Notably, he designed a transformer-based model for electric vehicle battery prediction, achieving ∼10% MAPE—outperforming Tesla’s deployed service.
+His research mainly focuses on networking and distributed systems, especially their intersections with machine learning, quantum computing, and cloud computing/data centers. His work at Temple University earned him two Outstanding Research Assistant Awards from the department and college (both are one per departent). In Fall 2023, he interned at Toyota NA, delivered two projects within 3.5 months and received an Exceeded rating. Notably, he designed a transformer-based model for electric vehicle battery prediction, achieving ∼10% MAPE—outperforming Tesla’s deployed service.
 
 Prior to his Ph.D. study, he obtained his B.Eng. in Information Security from North China University of Technology in Jun. 2020. While pursuing his Ph.D., he also earned M.S. in Computer Science from Temple University in 2024.  
 
