@@ -23,13 +23,13 @@ Work Experience
 ======
 * Aug. - Dec. 2023: Machine Learning Research Intern
   * InfoTech Labs, Toyota Motor North America, CA, US
-  * Duties: designed a machine learning model for electric vehicles battery prediction, achieved ~10% MAPE, which is **better than Tesla's deployed service**.
+  * Duties:  designed a machine learning model for electric vehicles battery prediction, achieved ~10% MAPE, which **outperforms Tesla's deployed service**.
   * Supervisor: Dr. Yongkang Liu
 
-* 2021 - 2025: Teaching/Research Assistant
+* 2021 - 2026: Teaching/Research Assistant, Graduate Fellow
   * Temple University
-  * Topics: edge intelligence, quantum networking, quantum computing, AI for networking, etc.
-  * Supervisor: [Dr. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}
+  * Topics: distributed computing, networking, machine learning, quantum computing, etc.
+  * Supervisor: [Prof. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}
 
 <!-- 
 Publications
@@ -49,7 +49,7 @@ Teaching
 
 Awards
 ======
-* Doctoral Dissertation Completion Grant, Temple University, 2026 ($13500)  
+* Doctoral Dissertation Completion Grant, Temple University, 2026 (Fellowship, $13500)  
 * Q-Core@QCE’25 NSF Student Travel Grant, 2025
 * Outstanding Graduate Research Assistant Award (College of Science and Technology), 2024
 * Outstanding Graduate Research Assistant Award (Department of Computer and Information Sciences), 2024
@@ -65,16 +65,22 @@ Talks
 
 Services
 ======
-Conference organizer
-  * Web Co-chair, IEEE MASS 2025
+Conference Organizing Committee of
+  * IEEE MASS 2025, Web Co-chair
 
 
-Reviewer of 
+Conference Technical Committee Member of
+  * IEEE MASS 2023
+
+
+Technical Reviewer of 
   * IEEE Transactions on Mobile Computing
   * IEEE Transactions on Cloud Computing
   * Elsevier Computer Networks
   * IEEE Internet of Things Journal
-  * IEEE MASS
   * Journal of Computer Science and Technology
   * Intelligent and Converged Networks
+  * IEEE MASS 2023
+  * IEEE IPCCC 2024
+
 
