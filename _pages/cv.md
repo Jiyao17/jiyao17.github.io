@@ -21,13 +21,17 @@ Education
 
 Work Experience
 ======
-* Aug. - Dec. 2023: Machine Learning Research Intern
-  * InfoTech Labs, Toyota Motor North America, CA, US
+* Software Engineer, Google
+  * Sunnyvale, CA, USA, Mar. 2026 - current  
+  * Machine fleet management.  
+
+* Machine Learning Research Intern, Toyota Motor North America  
+  * Mountain View, CA, USA, Aug. - Dec. 2023.  
   * Duties:  designed a machine learning model for electric vehicles battery prediction, achieved ~10% MAPE, which **outperforms Tesla's deployed service**.
   * Supervisor: Dr. Yongkang Liu
 
-* 2021 - 2026: Teaching/Research Assistant, Graduate Fellow
-  * Temple University
+* Teaching/Research Assistant, Graduate Fellow
+  * Temple University, Philadelphia, PA, USA, 2021 - 2026.
   * Topics: distributed computing, networking, machine learning, quantum computing, etc.
   * Supervisor: [Prof. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}
 

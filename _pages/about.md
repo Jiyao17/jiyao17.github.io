@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Jiyao Liu is currently (Feb. 2026) a final-year Ph.D. candidate in the Department of Computer and Information Sciences at Temple University, advised by [Prof. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}.  
+Jiyao Liu is currently (March 2026) a software engineer at Google, working on machine fleet management for data centers.
+
+
+<!-- He will also soon obtain his Ph.D. in Computer and Information Science from the Department of Computer and Information Sciences at Temple University, advised by [Prof. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}.   -->
 
 His research mainly focuses on networking and distributed systems, especially their intersections with machine learning, quantum computing, and cloud computing/data centers. His work at Temple University earned him two Outstanding Research Assistant Awards from the department and college (both are one per departent). In Fall 2023, he interned at Toyota NA, delivered two projects within 3.5 months and received an Exceeded rating. Notably, he designed a transformer-based model for electric vehicle battery prediction, achieving ∼10% MAPE, outperforming Tesla’s deployed service. He is also a recipient of the Doctoral Dissertation Completion Grant (Fellowship) from Temple University.  
 
 Prior to his Ph.D. study, he obtained his B.Eng. in Information Security from North China University of Technology in Jun. 2020. While pursuing his Ph.D., he also earned the M.S. in Computer Science from Temple University in 2024.  
 
 # News  
+**03-2026**  I am excited to share that I joined Google today!  
 **02-2026**  Our paper on exact optimal swapping and purification scheme for entanglement distribution in quantum networks is accepted by IEEE QCNC 2026!  
 **02-2026**  Our paper on joint swapping and purification optimization for entanglement distribution in quantum networks is accepted by IEEE Transactions on Networking!  
 **01-2026**  Our paper on incentive mechanism design in blockchain-based federated learning is accepted by Elsevier Computer Networks!  
