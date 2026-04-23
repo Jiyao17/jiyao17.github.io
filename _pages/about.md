@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Jiyao Liu is currently (March 2026) a software engineer at Google, working on machine fleet management for data centers.
+Dr. Liu is currently a software engineer at Google, working on machine fleet management for data centers.
 
 
-<!-- He will also soon obtain his Ph.D. in Computer and Information Science from the Department of Computer and Information Sciences at Temple University, advised by [Prof. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}.   -->
+He obtained his Ph.D. in Computer and Information Science from the Department of Computer and Information Sciences at Temple University, advised by [Prof. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}.  
 
 His research mainly focuses on networking and distributed systems, especially their intersections with machine learning, quantum computing, and cloud computing/data centers. His work at Temple University earned him two Outstanding Research Assistant Awards from the department and college (both are one per departent). In Fall 2023, he interned at Toyota NA, delivered two projects within 3.5 months and received an Exceeded rating. Notably, he designed a transformer-based model for electric vehicle battery prediction, achieving ∼10% MAPE, outperforming Tesla’s deployed service. He is also a recipient of the Doctoral Dissertation Completion Grant (Fellowship) from Temple University.  
 
