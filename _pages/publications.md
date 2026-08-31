@@ -28,7 +28,7 @@ All copyrights may be reserved by publishers.
 
 Topology Optimization in All-Optical Switched Quantum Data Center Networks  
 **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Zhu Han, Yu Wang  
-IEEE International Conference on Quantum Computing and Engineering (QCE25)  
+IEEE International Conference on Quantum Computing and Engineering (QCE26)  
 [Paper](/files/papers/2026/QDCN_topology.pdf){:target="_blank"} [Code](https://github.com/Jiyao17/qdcn){:target="_blank"}  
 
 
