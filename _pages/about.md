@@ -18,6 +18,8 @@ His research mainly focuses on networking and distributed systems, especially th
 Prior to his Ph.D. study, he obtained his B.Eng. in Information Security from North China University of Technology in Jun. 2020. While pursuing his Ph.D., he also earned the M.S. in Computer Science from Temple University in 2024.  
 
 # News  
+**09-2026**  Our paper on network topology and qubit allocation co-optimization for distributed quantum computing is accepted by IEEE Transactions on Networking!  
+**08-2026**  I am honored to serve as Technical Program Committee Member for GPC 2026, IPCCC 2026, and QCNC 2026!  
 **07-2026**  Our paper on netowork topology design for quantum data centers is accepted by QCE 2026!  
 **06-2026**  Our paper on entanglement rate approximation is accrpted by SIGCOMM QuNet workshop!  
 **03-2026**  I am excited to share that I joined Google today!  

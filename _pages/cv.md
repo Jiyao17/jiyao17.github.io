@@ -73,7 +73,10 @@ Conference Organizing Committee of
   * IEEE MASS 2025, Web Co-chair
 
 
-Conference Technical Committee Member of
+Conference Technical Program Committee Member of
+  * QCNC 2026
+  * IPCCC 2026
+  * GPC 2026
   * IEEE MASS 2023
 
 
@@ -84,7 +87,10 @@ Technical Reviewer of
   * IEEE Internet of Things Journal
   * Journal of Computer Science and Technology
   * Intelligent and Converged Networks
-  * IEEE MASS 2023
+  * QCNC 2026
+  * IPCCC 2026
+  * GPC 2026
   * IEEE IPCCC 2024
+  * IEEE MASS 2023
 
 

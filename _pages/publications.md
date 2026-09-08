@@ -26,6 +26,12 @@ All copyrights may be reserved by publishers.
 # 2026  
 
 
+Handling Qubit Allocation and Topology Design at Scale for Distributed Quantum Computing  
+**Jiyao Liu**, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.  
+IEEE Transactions on Networking, 2026.  
+[Paper](/files/papers/2026/TACO-ToN-final.pdf){:target="_blank"} [Code](https://github.com/Jiyao17/topodqc){:target="_blank"}  
+
+
 Topology Optimization in All-Optical Switched Quantum Data Center Networks  
 **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Zhu Han, Yu Wang  
 IEEE International Conference on Quantum Computing and Engineering (QCE26)  
@@ -76,7 +82,8 @@ IEEE/ACM International Symposium on Quality of Service (IWQoS 2025)
 Co-Design of Network Topology and Qubit Allocation for Distributed Quantum Computing  
 **Jiyao Liu**, Lei Fan, Yuanxiong Guo, Zhu Han, and Yu Wang.  
 International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)  
-[Paper](/files/papers/2025/Topology_Allocation_Co_Optimization.pdf){:target="_blank"}  
+[Paper](/files/papers/2025/Topology_Allocation_Co_Optimization.pdf){:target="_blank"} [Code](https://github.com/Jiyao17/topodqc){:target="_blank"}  
+
 
 # 2024  
 
